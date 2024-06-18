@@ -1,0 +1,13 @@
+2024-06-18 19:06:46 INFO  Extentlogger:57 - Enter your H-SMART ID is Clicked
+2024-06-18 19:06:47 INFO  Extentlogger:57 - ABC00 is entered in Enter your H-SMART ID successfully
+2024-06-18 19:06:49 INFO  Extentlogger:57 - Enter your password is Clicked
+2024-06-18 19:06:53 INFO  Extentlogger:57 - Xcent@21 is entered in Enter your password successfully
+2024-06-18 19:06:58 INFO  Extentlogger:57 - Login is Clicked
+2024-06-18 19:07:01 INFO  Extentlogger:57 - SKIP is Clicked
+2024-06-18 19:07:04 INFO  Extentlogger:102 - Login
+2024-06-18 19:07:05 INFO  Extentlogger:57 - Open navigation drawer is Clicked
+2024-06-18 19:07:07 INFO  Extentlogger:57 - Help is Clicked
+2024-06-18 19:07:09 INFO  Extentlogger:57 - 3.Dashboard is Clicked
+2024-06-18 19:07:21 INFO  Extentlogger:57 - image is Clicked
+2024-06-18 19:07:27 INFO  Extentlogger:91 - Is that element displayed?->true
+2024-06-18 19:07:28 INFO  Extentlogger:102 - Verifytheskipnavigation
